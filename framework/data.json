@@ -1,0 +1,21 @@
+{
+  "baseUrl": "https://demoqa.com/",
+  "userData": [
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "email": "knownothing@gmail.com",
+      "age": 30,
+      "salary": 3000,
+      "department": "alpha"
+    },
+    {
+      "firstName": "Buttercup",
+      "lastName": "Cumersnatch",
+      "email": "BudapestCandygram@mail.io41",
+      "age": 41,
+      "salary": 2000,
+      "department": "beta"
+    }
+  ]
+}

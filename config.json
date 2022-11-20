@@ -1,0 +1,5 @@
+{
+  "browser": "firefox",
+  "timeout": 3000,
+  "baseUrl": "https://demoqa.com/"
+}
